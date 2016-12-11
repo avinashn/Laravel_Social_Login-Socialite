@@ -9,5 +9,5 @@ After cloning this repo,
 <li>Finally, run the application. <code>php artisan serve</code></li>
 </ul>
 
-Post Url : http://justlaravel.com/laravel-social-login-using-socialite/
-Working Demo : http://demos.justlaravel.com/laravel_social_login_using_socialite/
+<b>Post Url</b> : http://justlaravel.com/laravel-social-login-using-socialite/ <br>
+<b>Working Demo</b> : http://demos.justlaravel.com/laravel_social_login_using_socialite/
