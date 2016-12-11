@@ -8,3 +8,6 @@ After cloning this repo,
 <li>Use those credenntials obtained from those apps and place Client ID, Client secret and Callback url in your app's <code>.env</code> file</li>
 <li>Finally, run the application. <code>php artisan serve</code></li>
 </ul>
+
+Post Url : http://justlaravel.com/laravel-social-login-using-socialite/
+Working Demo : http://demos.justlaravel.com/laravel_social_login_using_socialite/
